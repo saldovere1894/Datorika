@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg1"
+   inkscape:version="1.4.2 (f4327f4, 2025-05-13)"
+   sodipodi:docname="logo.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     inkscape:zoom="0.72604517"
+     inkscape:cx="397.3582"
+     inkscape:cy="561.25984"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs1">
+    <inkscape:path-effect
+       effect="fillet_chamfer"
+       id="path-effect9"
+       is_visible="true"
+       lpeversion="1"
+       nodesatellites_param="F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1"
+       radius="0"
+       unit="px"
+       method="auto"
+       mode="F"
+       chamfer_steps="1"
+       flexible="false"
+       use_knot_distance="true"
+       apply_no_radius="true"
+       apply_with_radius="true"
+       only_selected="false"
+       hide_knots="false" />
+    <rect
+       x="216.23999"
+       y="260.31438"
+       width="342.95387"
+       height="247.91846"
+       id="rect2" />
+  </defs>
+  <g
+     inkscape:label="Slānis 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <rect
+       style="fill:#759400;fill-opacity:0.8214286;stroke-width:0.264583"
+       id="rect1"
+       width="95.477303"
+       height="78.714104"
+       x="54.298161"
+       y="61.222084" />
+    <ellipse
+       style="fill:#647c00;fill-opacity:0.623016;stroke-width:0.261345"
+       id="path1"
+       cx="102.21902"
+       cy="101.67239"
+       rx="47.92086"
+       ry="31.339876" />
+    <text
+       xml:space="preserve"
+       transform="matrix(0.95394149,0,0,2.0865075,-152.8476,-475.98349)"
+       id="text1"
+       style="font-size:26.6667px;line-height:1.1;font-family:Bahnschrift;-inkscape-font-specification:Bahnschrift;text-align:start;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect2);fill:#b5e500;fill-opacity:1"><tspan
+         x="216.24023"
+         y="282.82699"
+         id="tspan3"><tspan
+           style="font-family:'Bauhaus 93';-inkscape-font-specification:'Bauhaus 93, '"
+           id="tspan1">Degreez</tspan></tspan></text>
+    <rect
+       style="fill:#445500;fill-opacity:1;stroke-width:0.225722"
+       id="rect3"
+       width="94.748459"
+       height="14.212268"
+       x="54.662575"
+       y="126.81716" />
+    <path
+       id="rect4"
+       style="fill:#445500;stroke-width:0.264583"
+       d="m 68.51043,114.79142 c -2.152248,12.7546 13.119018,14.18057 13.119018,17.30982 0,3.12925 -9.076174,-2.36871 -11.296932,-2.36871 -2.220757,0 -4.008587,-2.51922 -4.008587,-5.64847 0,-3.12925 2.556014,-11.48244 2.186501,-9.29264 z"
+       sodipodi:nodetypes="sssss" />
+    <path
+       id="rect5"
+       style="fill:#445500;stroke-width:0.264583"
+       d="m 131.5546,127.54601 4.00858,-11.29693 v 14.21227 l -11.29693,-6.92393 z"
+       sodipodi:nodetypes="ccccc" />
+    <path
+       id="rect6"
+       style="fill:#445500;stroke-width:0.264583"
+       d="m 142.12271,127.54602 7.65275,-9.11043 -8.01718,16.39877 -5.83066,-14.21227 z"
+       sodipodi:nodetypes="ccccc" />
+    <path
+       id="rect7"
+       style="fill:#445500;stroke-width:0.264583"
+       d="m 111.14725,124.9951 3.64417,-9.11043 v 13.84785 H 97.663813 Z"
+       sodipodi:nodetypes="ccccc" />
+    <path
+       id="rect8"
+       style="fill:#445500;stroke-width:0.264583"
+       d="m 119.89324,127.54602 3.64418,-13.48344 -1.09325,20.77177 -3.27976,-3.27975 z"
+       sodipodi:nodetypes="ccccc" />
+    <path
+       id="rect9"
+       style="fill:#445500;stroke-width:0.264583"
+       d="m 116.97791,122.44417 5.83068,9.11043 -4.00859,0.36441 -6.92393,-0.72883 z"
+       sodipodi:nodetypes="ccccc" />
+  </g>
+</svg>
